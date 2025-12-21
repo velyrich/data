@@ -96,7 +96,8 @@
       "v2.3.3": { "file": "Vellia Elyvia V2.3.3.zip", "maintenance": true, "reason": "Maintenance global" },
       "v2.3.4": { "file": "Vellia Elyvia V2.3.4.zip", "maintenance": true, "reason": "Maintenance global" },
       "v2.3.5": { "file": "Vellia Elyvia V2.3.5.zip", "maintenance": true, "reason": "Maintenance global" },
-      "v2.3.6": { "file": "Vellia Elyvia V2.3.6.zip", "maintenance": false, "reason": "Maintenance global" }
+      "v2.3.6": { "file": "Vellia Elyvia V2.3.6.zip", "maintenance": false, "reason": "Maintenance global" },
+      "v2.3.7": { "file": "Vellia Elyvia V2.3.7.zip", "maintenance": false, "reason": "Maintenance global" }
     }
   }
 }
