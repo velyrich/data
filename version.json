@@ -98,7 +98,8 @@
       "v2.3.5": { "file": "Vellia Elyvia V2.3.5.zip", "maintenance": true, "reason": "Maintenance global" },
       "v2.3.6": { "file": "Vellia Elyvia V2.3.6.zip", "maintenance": false, "reason": "Maintenance global" },
       "v2.3.7": { "file": "Vellia Elyvia V2.3.7.zip", "maintenance": false, "reason": "Maintenance global" },
-      "v2.3.8": { "file": "Vellia Elyvia V2.3.8.zip", "maintenance": true, "reason": "Maintenance server" }
+      "v2.3.8": { "file": "Vellia Elyvia V2.3.8.zip", "maintenance": true, "reason": "Maintenance server" },
+      "v2.3.9": { "file": "Vellia Elyvia V2.3.9.zip", "maintenance": true, "reason": "Belum rilis ygy😂" }
     }
   }
 }
