@@ -1,0 +1,89 @@
+{
+  "version": "1.0",
+  "users": [
+    {
+      "id": "1",
+      "phone": "081234567890",
+      "password": "567890",
+      "username": "Developer Admin",
+      "tagName": "dev_admin",
+      "role": "Developer",
+      "profilePhoto": "",
+      "bio": "Founder of Vellia Apps",
+      "isOnline": true,
+      "isBanned": false,
+      "createdAt": "2024-01-01"
+    },
+    {
+      "id": "2",
+      "phone": "082233445566",
+      "password": "445566",
+      "username": "Budi Owner",
+      "tagName": "budi_owner",
+      "role": "Owner",
+      "profilePhoto": "",
+      "bio": "Owner sejati",
+      "isOnline": false,
+      "isBanned": false,
+      "createdAt": "2024-01-15"
+    },
+    {
+      "id": "3",
+      "phone": "085566778899",
+      "password": "778899",
+      "username": "Sari Reseller",
+      "tagName": "sari_reseller",
+      "role": "Reseller",
+      "profilePhoto": "",
+      "bio": "Reseller aktif",
+      "isOnline": true,
+      "isBanned": false,
+      "createdAt": "2024-02-01"
+    },
+    {
+      "id": "4",
+      "phone": "087711223344",
+      "password": "223344",
+      "username": "Andi Member",
+      "tagName": "andi_member",
+      "role": "Member",
+      "profilePhoto": "",
+      "bio": "",
+      "isOnline": false,
+      "isBanned": false,
+      "createdAt": "2024-03-01"
+    }
+  ],
+  "scripts": [
+    {
+      "id": "s1",
+      "name": "Auto Login Bot",
+      "description": "Script otomatis untuk login ke berbagai platform dengan aman.",
+      "version": "v2.1",
+      "category": "Automation",
+      "content": "#!/bin/bash\n# Auto Login Script v2.1\necho 'Starting auto login...'\n# Add your logic here",
+      "downloadUrl": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/scripts/auto-login.sh",
+      "updatedAt": "2024-03-15"
+    },
+    {
+      "id": "s2",
+      "name": "Data Scraper Pro",
+      "description": "Ambil data dari website target secara otomatis dan rapi.",
+      "version": "v1.5",
+      "category": "Scraping",
+      "content": "import requests\nfrom bs4 import BeautifulSoup\n\n# Data Scraper Pro v1.5\nprint('Scraping started...')",
+      "downloadUrl": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/scripts/scraper.py",
+      "updatedAt": "2024-03-10"
+    },
+    {
+      "id": "s3",
+      "name": "Report Generator",
+      "description": "Generate laporan otomatis dalam format PDF dan Excel.",
+      "version": "v3.0",
+      "category": "Utility",
+      "content": "# Report Generator v3.0\necho 'Generating report...'",
+      "downloadUrl": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/scripts/report.sh",
+      "updatedAt": "2024-02-28"
+    }
+  ]
+}
