@@ -3,8 +3,8 @@
   "users": [
     {
       "id": "1",
-      "phone": "081234567890",
-      "password": "567890",
+      "phone": "0",
+      "password": "1",
       "username": "Developer Admin",
       "tagName": "dev_admin",
       "role": "Developer",
